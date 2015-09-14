@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.0'
+gem 'rails', '4.2.4'
 
 gem 'pg'
 
@@ -20,6 +20,7 @@ end
 
 group :development do
   gem 'pry'
+  gem 'letter_opener'
 end
 
 gem 'delayed_job_active_record'
