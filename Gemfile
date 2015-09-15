@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+ruby '2.2.2'
+#ruby-gemset=prelaunchr
+
 gem 'rails', '4.2.4'
 
 gem 'pg'
