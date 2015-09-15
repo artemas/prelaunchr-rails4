@@ -28,7 +28,7 @@ end
 
 gem 'delayed_job_active_record'
 
-gem 'unicorn'
+gem 'puma'
 
 gem 'devise'
 
